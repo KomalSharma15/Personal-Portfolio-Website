@@ -1,0 +1,8 @@
+
+{
+  "name": "ProPortfolio - AI Powered Resume",
+  "description": "A high-end, responsive professional portfolio with an integrated Gemini AI assistant to answer recruiter questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

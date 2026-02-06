@@ -1,0 +1,1 @@
+A responsive personal portfolio website showcasing my technical expertise. It highlights my technical skills, development work, and professional journey while providing an easy way for recruiters and visitors to connect with me.
